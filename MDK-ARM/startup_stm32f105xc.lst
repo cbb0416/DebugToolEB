@@ -577,10 +577,10 @@ ARM Macro Assembler    Page 9
   379 0000001C                 END
               00000000 
               00000000 
-Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=genericu
-artprotocol_test\startup_stm32f105xc.d -ogenericuartprotocol_test\startup_stm32
-f105xc.o -I..\\Inc -IC:\Keil\ARM\RV31\INC -IC:\Keil\ARM\CMSIS\Include --predefi
-ne="__MICROLIB SETA 1" --list=startup_stm32f105xc.lst startup_stm32f105xc.s
+Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=debugtoo
+leb\startup_stm32f105xc.d -odebugtooleb\startup_stm32f105xc.o -I..\\Inc -IC:\Ke
+il\ARM\RV31\INC -IC:\Keil\ARM\CMSIS\Include --predefine="__MICROLIB SETA 1" --l
+ist=startup_stm32f105xc.lst startup_stm32f105xc.s
 
 
 

@@ -7,7 +7,7 @@
 
   <Targets>
     <Target>
-      <TargetName>GenericUartProtocol_Test</TargetName>
+      <TargetName>DebugToolEB</TargetName>
       <ToolsetNumber>0x4</ToolsetNumber>
       <ToolsetName>ARM-ADS</ToolsetName>
       <TargetOption>
@@ -43,8 +43,8 @@
             <NotGenerated>0</NotGenerated>
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
-          <OutputDirectory>GenericUartProtocol_Test\</OutputDirectory>
-          <OutputName>GenericUartProtocol_Test</OutputName>
+          <OutputDirectory>DebugToolEB\</OutputDirectory>
+          <OutputName>DebugToolEB</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>

@@ -21,7 +21,7 @@
   </DaveTm>
 
   <Target>
-    <TargetName>GenericUartProtocol_Test</TargetName>
+    <TargetName>DebugToolEB</TargetName>
     <ToolsetNumber>0x4</ToolsetNumber>
     <ToolsetName>ARM-ADS</ToolsetName>
     <TargetOption>
